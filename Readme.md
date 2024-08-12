@@ -12,7 +12,7 @@ git clone https://github.com/GustavoMartinx/Biological-Data-Processing.git
 ```
 
 ### 2 - Obtenha as bases de dados utilizadas
-Com um _e-mail_ institucional da UTFPR, acesse a pasta `s6` disponível no Google Drive e realize seu download:
+Com um _e-mail_ institucional da UTFPR, acesse a pasta `s7` disponível no Google Drive e realize seu download:
 
 https://drive.google.com/drive/folders/1wqzoCOL-teKerb75jyvQk7b9XW72eg78
 
